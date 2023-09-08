@@ -1,0 +1,171 @@
+.e1_2 { 
+	background-color:rgba(29.006250835955143, 163.78863036632538, 193.37499797344208, 1);
+	width:1280px;
+	height:720px;
+    border-radius:20px;
+}
+
+.e1_3 { 
+	background-color:rgba(243.31249594688416, 48.66249918937683, 223.84750843048096, 1);
+	width:1195px;
+	height:102px;
+    position: relative;
+    left: 25px;
+    border-radius:20px;
+}
+
+.e1_4 { 
+	background-color:rgba(17.991665974259377, 78.80351543426514, 134.93749290704727, 1);
+	width:104px;
+	height:102px;
+    position: relative;
+    right:26px;
+    top:-67px;
+}
+
+/*letras*/
+.e1_11 { 
+	color:rgba(0, 0, 0, 1);
+	width:522px;
+	height:63px;
+	font-family:Hammersmith One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+    position: relative;
+    left:300px;
+    top:20px;
+}
+
+.imagem[src="procurar.png"]{
+    position: relative;
+    top:30px;
+    right:290px;
+  }
+
+ 
+
+/*bloco anotação 1*/
+.e1_5 { 
+	background-color:rgba(151.92680686712265, 104.9218775331974, 251.81250303983688, 1);
+	width:304px;
+	height:513px;
+    position: relative;
+    left:78px;
+    border-radius:20px;
+}
+
+
+.e1_26 { 
+	color:rgba(0, 0, 0, 1);
+	width:158px;
+	height:27px;
+	font-family:Viga;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+    position: relative;
+    left:70px;
+    top:10px;
+}
+
+.e1_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:236px;
+	height:476px;
+	font-family:Viga;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+    position: relative;
+    top:40px;
+}
+
+
+/*bloco anotação 2*/
+.e1_18 { 
+	background-color:rgba(151.92680686712265, 104.9218775331974, 251.81250303983688, 1);
+	width:304px;
+	height:513px;
+    position: relative;
+    left:480px;
+    top:-510px;
+    border-radius:20px;
+}
+
+.e1_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:263px;
+	height:461px;
+	font-family:Viga;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+    position: relative;
+    left:80px;
+    top:10px;
+}
+
+.e1_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:263px;
+	height:461px;
+	font-family:Viga;
+	text-align:left;
+	font-size:Symbol(mixed)px;
+	letter-spacing:0;
+    position: relative;
+    top:50px;
+}
+
+/*bloco anotação 3*/
+.e1_19 { 
+	background-color:rgba(151.92680686712265, 104.9218775331974, 251.81250303983688, 1);
+	width:304px;
+	height:513px;
+    position: relative;
+    top:-1023px;
+    left:890px;
+    border-radius:20px;
+}
+
+.e1_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:120px;
+	height:27px;
+	font-family:Viga;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+    position: relative;
+    left:80px;
+    top:10px;
+}
+
+.e1_29 { 
+	color:rgba(0, 0, 0, 1);
+	width:263px;
+	height:415px;
+	font-family:Viga;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+    position: relative;
+    top:30px;
+}
+
+
+@-webkit-keyframes fundocor {
+    0%   {background: #76e6b7;}
+    100% {background: #d976e6;}
+}
+
+@keyframes fundocor {
+    0%   {background: #76e6b7;}
+    100% {background: #d976e6;}
+}
+
+.e1_2{
+-webkit-animation: fundocor 3s linear 2s infinite alternate; 
+    animation: fundocor 3s linear 2s infinite alternate; 
+}
